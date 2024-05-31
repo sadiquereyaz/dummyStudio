@@ -44,3 +44,8 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+@Composable
+fun hammad(){
+    println("hello h this is hammad");
+}
